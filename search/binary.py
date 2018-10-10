@@ -19,7 +19,7 @@ list from k to len(S), if t < S[k] search the list from 0 to k. Keep doing this
 process recursively until we find the index of the target.
 
 Time Complexcity:
-O(log(n))
+O(log(n)) where n is the length of the given list
 '''
 def bin_search(s, target):
     return perform(s, target, 0, len(s))
