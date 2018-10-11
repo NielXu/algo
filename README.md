@@ -8,3 +8,4 @@
 - `sorting` Sorting algorithms
     - `bubble.py` Bubble sort
     - `insertion.py` Insertion sort
+    - `quick.py` Quick sort
