@@ -2,6 +2,7 @@
 - `dp` Dynamic programming algorithms
     - `coin.py` Coin change problem
     - `fibonacci.py` Compute fibonacci number
+    - `lis_length.py` Find length of LIS
 - `search` Searching algorithms
     - `binary.py` Binary search
     - `linear.py` Linear search
