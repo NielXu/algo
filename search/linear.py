@@ -11,7 +11,7 @@ each element with the target using ==, if they are equal,
 return the index and end the method. Otherwise, return -1
 at the end of the method.
 
-Time Complexcity:
+Time Complexity:
 O(n), where n is the len of the given list
 '''
 def linear(s, target):

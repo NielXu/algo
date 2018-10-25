@@ -9,7 +9,7 @@ Bubble sort is the easiest solutoin but meanwhile the slowest solution.
 It compares each element with its next element, and perform swapping if
 the next element is greater than the current element.
 
-Time Complexcity:
+Time Complexity:
 O(n^2) where n is the length of the given list
 
 Addition:

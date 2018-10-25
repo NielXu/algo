@@ -11,7 +11,7 @@ compare it with the first element and perfrom swapping if the first element is
 greater than the second. Keep repeating until the list is looped through, and
 the element will be sorted.
 
-Time Complexcity:
+Time Complexity:
 O(n^2) where n is the length of the given list
 '''
 def insertion(s):
