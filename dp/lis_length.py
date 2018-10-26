@@ -19,7 +19,7 @@ we iterate each element on the column at index j:
 After all iterations, the max number of the table will
 be the length of longest increasing subsequence.
 
-Time Complexcity:
+Time Complexity:
 O(n^2) where n is the length of the given list
 
 Addition:

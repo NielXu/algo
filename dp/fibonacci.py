@@ -7,7 +7,7 @@ Si = {
     S(i-1) + S(i-2) if i>1
 }
 which means, the first term of the fibonacci sequence
-is 0 and the second term is 1 and start from the third term, 
+is 0 and the second term is 1 and start from the third term,
 the number will be the sum of the previous two terms.
 Given an integr j (j>=0), compute the fibonacci
 sequence at index j, which is Sj.
@@ -21,7 +21,7 @@ recursion. We can store the calculated terms in a list so
 that next time when we need the numbers, we can get them
 directly from the list instead of calculating them again.
 
-Time Complexcity:
+Time Complexity:
 O(n) where n is the fibonacci number we are looking for
 
 Extra Space:

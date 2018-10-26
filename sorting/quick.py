@@ -16,7 +16,7 @@ that are on the right side of p be a partition j
 3. Repeat step 1 and 2 for both k and j, until the lengths
 of k and j are one.
 
-Time Complexcity:
+Time Complexity:
 O(nlogn) where n is the length of the given list
 
 Addition:
