@@ -3,6 +3,7 @@
     - `coin.py` Coin change problem
     - `fibonacci.py` Compute fibonacci number
     - `lis_length.py` Find length of LIS
+    - `bellman_ford.py` Bellman Ford Algorithm
 - `search` Searching algorithms
     - `binary.py` Binary search
     - `linear.py` Linear search
