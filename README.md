@@ -10,3 +10,4 @@
     - `bubble.py` Bubble sort
     - `insertion.py` Insertion sort
     - `quick.py` Quick sort
+    - `radix.py` Radix sort
