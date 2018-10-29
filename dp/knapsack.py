@@ -68,7 +68,30 @@ def knapsack(items, weight) -> float:
     # return the optimal value
     return opt[-1][-1]
 
+items = [(15, 1), (15, 1), (15, 1), (44, 3)]
+limit = 3
+print(knapsack(items, limit))
 
-if __name__ == "__main__":
-    import doctest
-    doctest.testmod()
+items = [(15, 1), (15, 1), (15, 1), (46, 3)]
+limit = 3
+print(knapsack(items, limit))
+
+items = [(15, 1), (15, 1), (15, 1), (46, 3)]
+limit = 4
+print(knapsack(items, limit))
+
+items = [(15, 1), (16, 1), (15, 1), (46, 3)]
+limit = 1
+print(knapsack(items, limit))
+
+items = [(15, 2), (15, 2), (15, 2), (46, 3)]
+limit = 1
+print(knapsack(items, limit))
+
+items = [(16, 99)]
+limit = 1
+print(knapsack(items, limit))
+
+items = [(16, 98)]
+limit = 99
+print(knapsack(items, limit))
