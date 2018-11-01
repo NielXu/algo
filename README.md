@@ -12,3 +12,4 @@
     - `insertion.py` Insertion sort
     - `quick.py` Quick sort
     - `radix.py` Radix sort
+    - `bucket.py` Bucket sort
