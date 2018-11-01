@@ -22,7 +22,7 @@ be defined as: C(i) = min{C(i-j)+1}, where i-j >= 0 and i represents
 the least coins require to get the sum i, and j represents the value
 of the jth coin.
 
-Time Complexcity:
+Time Complexity:
 O(n*m) where n is the sum and m is the number of coins
 '''
 def dp_coin(coins, coin_sum):
