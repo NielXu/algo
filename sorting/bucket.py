@@ -19,7 +19,7 @@ Assume given list is S,
 3. Sort each bucket
 4. Concatenate all non-empty sorted buckets
 
-Time Complexcity:
+Time Complexity:
 O(n+k) where n is the length of the given list,
 and k is the range of the number
 
