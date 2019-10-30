@@ -17,3 +17,4 @@
     - `closest_pair_of_points.py` Closest pair of points
     - `max_difference.py` Max difference of array algorithm
     - `kth_order_statistics.py` Find the kth smallest number in an array in linear time.
+    - `inversions.py` Counting inversions algorithm
