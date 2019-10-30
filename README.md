@@ -13,3 +13,6 @@
     - `quick.py` Quick sort
     - `radix.py` Radix sort
     - `bucket.py` Bucket sort
+- `dnc` Divide and conquer algorithms
+    - `closest_pair_of_points.py` Closest pair of points
+    - `max_difference` Max difference of array algorithm
