@@ -18,3 +18,4 @@
     - `max_difference.py` Max difference of array algorithm
     - `kth_order_statistics.py` Find the kth smallest number in an array in linear time.
     - `inversions.py` Counting inversions algorithm
+    - `peak.py` Finding peak of array
