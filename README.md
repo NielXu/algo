@@ -19,3 +19,4 @@
     - `kth_order_statistics.py` Find the kth smallest number in an array in linear time.
     - `inversions.py` Counting inversions algorithm
     - `peak.py` Finding peak of array
+    - `majority.py` Finding the majority element of an array 
