@@ -13,3 +13,10 @@
     - `quick.py` Quick sort
     - `radix.py` Radix sort
     - `bucket.py` Bucket sort
+- `dnc` Divide and conquer algorithms
+    - `closest_pair_of_points.py` Closest pair of points
+    - `max_difference.py` Max difference of array algorithm
+    - `kth_order_statistics.py` Find the kth smallest number in an array in linear time.
+    - `inversions.py` Counting inversions algorithm
+    - `peak.py` Finding peak of array
+    - `majority.py` Finding the majority element of an array 
