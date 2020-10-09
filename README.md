@@ -19,4 +19,8 @@
     - `kth_order_statistics.py` Find the kth smallest number in an array in linear time.
     - `inversions.py` Counting inversions algorithm
     - `peak.py` Finding peak of array
-    - `majority.py` Finding the majority element of an array 
+    - `majority.py` Finding the majority element of an array
+    - `karatsuba_multiplication.py` Multiply two integers efficiently
+- `greedy` Greedy algorithms
+    - `interval_scheduling.py` Interval scheduling
+    - `shortest_path.py` Shortest paths in a directed graph with non-negative weights
