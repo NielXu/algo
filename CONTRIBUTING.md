@@ -6,8 +6,7 @@ that can be easily understood, such as python, java and so on.
 We recommend you to write the algorithms by youself without importing any libraries.
 
 # File name
-The file name must be meaningful, examples of good file names: `quick.py`(quicksort), `fibonacci.py`(fibonacci number).
-Examples of bad file names: `a.py`(What?), `coin_change_problem_solved_by_dp.py`(too long).
+The file name must be meaningful and self explanatory.
 
 # Explanation
 For each algorithm, there should be a block comment on top of the codes that explains everything about it. Some necessary
@@ -42,11 +41,4 @@ O(n), where n is the len of the given list
 ```
 
 # Commit
-Each commit should be in format: `[action file] message`, where action is what you did, file is the file that you wrote and
-message should be meaningful message. Rememeber that you should include the folder of the files, for example, `search/linear.py`
-A list of actions:
-- `Add` First time when you added this file, the following message should state what algorithm it is
-- `Modified` When you modified the files, the following message should explain what you modified
-- `Append` When you append a new algorithm to the `README.md` file
-
-Example of commits: `[Add search/linear.py] Added linear search algorithm`
+Commits must be meaningful and self explanatory.
